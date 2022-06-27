@@ -4,7 +4,7 @@
 
 # @nezuchan/kotlin-template
 
-**A Kotlin project base ready that to use**
+**A Kotlin project base that ready to use**
 
 [![GitHub](https://img.shields.io/github/license/nezuchan/kotlin-template)](https://github.com/nezuchan/kotlin-template/blob/main/LICENSE)
 [![Discord](https://discordapp.com/api/guilds/785715968608567297/embed.png)](https://nezu.my.id)
