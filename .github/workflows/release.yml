@@ -16,7 +16,7 @@ jobs:
         distribution: 'adopt'
 
     - name: Build with Gradle
-      uses: gradle/gradle-build-action@7645d3e274e94b3c6c552128b669aa208db5b94c
+      uses: gradle/gradle-build-action@5c54c528391d07343539f7d665a2af08c9bfd64f
       with:
         arguments: jar
 
